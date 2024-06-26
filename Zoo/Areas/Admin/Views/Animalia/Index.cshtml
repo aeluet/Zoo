@@ -1,0 +1,38 @@
+﻿@model List<Animalia>
+
+<div class="container>">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Zoo-an ikusi daitezken animaliak
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="animalia" asp-action="Upsert" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> Animali berria sortu
+            </a>
+        </div>
+
+    </div>
+    <table id="tblData" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Izena</th>
+                <th>Sarrera Data</th>
+                <th>Jaiotze Data</th>
+                <th>Arraza</th>
+                <th></th>
+            </tr>
+        </thead>
+
+    </table>
+    <div class="row">
+        <div class="col-6 col-md-3">
+            
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/Animalia.js"></script>
+}

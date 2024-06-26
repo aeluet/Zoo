@@ -1,0 +1,28 @@
+﻿@model List<Arraza>
+
+<div class="container>">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Zoo-an ikusi daitezken arrazak
+            </h2>
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var obj in Model.OrderBy(u => u.ID))
+        {
+            <div class="card col-12 col-md-4">
+                <img src="@obj.ImageUrl" class="card-img-top" alt="...">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center">@obj.Izena</h5>
+                    <p class="card-text">@obj.Deskribapena</p>
+                    <p class="card-text">@obj.Lekua.Izena</p>
+
+                    <a href="/Bezeroa/Home/ListAnimalia?id=@obj.ID" class="btn btn-primary align-self-center">Ikusi animaliak</a>
+                </div>
+            </div>
+
+        }
+    </div>
+
+</div>

@@ -1,0 +1,71 @@
+﻿@model Langile
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Id" hidden />
+    <div clasModelOnlys="border p-3 mt-4 w-40">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Langilea aldatu</h2>
+            <hr />
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="UserName" class="p-0"></label>
+            <input disabled asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Izena" class="p-0"></label>
+            <input asp-for="Izena" class="form-control" />
+            <span asp-validation-for="Izena" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Abizena" class="p-0"></label>
+            <input asp-for="Abizena" class="form-control" />
+            <span asp-validation-for="Abizena" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label class="p-0">Postua</label>
+            <select asp-for="Postua" class="form-select">
+                <option disabled selected>--Hautatu Postua--</option>
+                <option>Zaintzailea</option>
+                <option>Dendaria</option>
+                <option>Informatikaria</option>
+                <option>Mantenu teknikaria</option>
+                <option>Albaitaria</option>
+                <option>Garbitzailea</option>
+                <option>Idazkaria</option>
+            </select>
+            <span asp-validation-for="Postua" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label class="p-0">Turnoa</label>
+            <select asp-for="Turnoa" class="form-select">
+                <option disabled selected>--Hautatu Turnoa--</option>
+                <option>Goiz</option>
+                <option>Arratsalde</option>
+                <option>Gau</option>
+                <option>Zatitua</option>
+            </select>
+            <span asp-validation-for="Postua" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                
+                    <button type="submit" class="btn btn-primary form-control">Aldatu</button>
+                
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Langilea" asp-action="Index" class="btn btn-secondary border form-control">
+                    Bueltatu
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

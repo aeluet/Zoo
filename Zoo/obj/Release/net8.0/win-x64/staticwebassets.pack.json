@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\Zoo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Zoo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\24d4f8dc-601c-4dc2-a6c5-a83ecc66e391.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\24d4f8dc-601c-4dc2-a6c5-a83ecc66e391.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\537ce8de-3529-4064-8183-e7fefa31d844.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\537ce8de-3529-4064-8183-e7fefa31d844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\98a693dc-395a-4465-9fc0-0e90c079dd0b.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\98a693dc-395a-4465-9fc0-0e90c079dd0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\e02274db-6ddb-4348-a9a2-ed9e1535d653.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\e02274db-6ddb-4348-a9a2-ed9e1535d653.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\0e16daef-db71-445d-b538-0e26e2bdde26.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\0e16daef-db71-445d-b538-0e26e2bdde26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\120fcbd1-0f20-4594-8164-5f0f008169d8.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\120fcbd1-0f20-4594-8164-5f0f008169d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\32f230ee-42f4-43e2-9a59-bca90849e992.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\32f230ee-42f4-43e2-9a59-bca90849e992.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\51431a5d-e60a-464f-92e9-cdc371cc4564.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\51431a5d-e60a-464f-92e9-cdc371cc4564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\56e2f261-15a3-4518-bb50-5f520bcfdc4a.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\56e2f261-15a3-4518-bb50-5f520bcfdc4a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\80270800-1f37-4bc7-ab35-2867f8c35b5e.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\80270800-1f37-4bc7-ab35-2867f8c35b5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\853d1e02-1e26-4b6e-905f-c23ee170bdce.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\853d1e02-1e26-4b6e-905f-c23ee170bdce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\9344a42f-a79f-4cf2-a5f7-aa034c2da5ef.png",
+      "PackagePath": "staticwebassets\\images\\arraza\\9344a42f-a79f-4cf2-a5f7-aa034c2da5ef.png"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\ae857280-cd44-4dac-a93a-161ad52b211c.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\ae857280-cd44-4dac-a93a-161ad52b211c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\b9161473-22dc-426b-8f8b-0058ad6474aa.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\b9161473-22dc-426b-8f8b-0058ad6474aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\ffb40cf8-ee7f-4bab-8371-d948f5358045.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\ffb40cf8-ee7f-4bab-8371-d948f5358045.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\animal.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\animal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\blake-guidry-J6803ULieac-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\blake-guidry-J6803ULieac-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\christian-englmeier-U6VPKGL6CXw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\christian-englmeier-U6VPKGL6CXw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\ciervo.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\ciervo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\daiga-ellaby-p-vf1RhLzsc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\daiga-ellaby-p-vf1RhLzsc-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\girlanimal.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\girlanimal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\joshua-forbes-DMBL4Ns-x2M-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\joshua-forbes-DMBL4Ns-x2M-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\panda-rojo.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\panda-rojo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\pupet.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\pupet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\staf.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\staf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\Animalia.js",
+      "PackagePath": "staticwebassets\\js\\Animalia.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\Arraza.js",
+      "PackagePath": "staticwebassets\\js\\Arraza.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.Zoo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.build.Zoo.props",
+      "PackagePath": "build\\Zoo.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Zoo.props",
+      "PackagePath": "buildMultiTargeting\\Zoo.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Zoo.props",
+      "PackagePath": "buildTransitive\\Zoo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

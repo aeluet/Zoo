@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\obj\\Debug\\net8.0\\win-x64\\scopedcss\\projectbundle\\Zoo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Zoo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\arturo.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\arturo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\aurora.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\aurora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\carlos.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\carlos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\charlie.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\charlie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\charlotte.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\charlotte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\chip.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\chip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\chloe.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\chloe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\cindy.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\cindy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\cleo.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\cleo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\connor.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\connor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\cooper.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\cooper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\eleanor.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\eleanor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\eric.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\eric.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\felicia.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\felicia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\fiona.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\fiona.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\gerald.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\gerald.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\gigi.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\gigi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\goliath.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\goliath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\gracie.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\gracie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\greg.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\greg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\greta.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\greta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\gus.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\gus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\katie.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\katie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\kenny.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\kenny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\leo.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\leo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\lola.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\lola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\luna.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\luna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\manny.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\manny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\max.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\milo.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\milo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\pablo.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\pablo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\patrick.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\patrick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\paul.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\paul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\pen.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\pen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\penelope.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\penelope.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\penny.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\penny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\percy.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\percy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\peter.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\peter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\pippa.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\pippa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\polly.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\polly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\poppy.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\poppy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\ruby.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\ruby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\rusty.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\rusty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\sammy.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\sammy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\sarita.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\sarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\simba.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\simba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tara.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tess.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tess.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tim.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tina.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tony.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tony.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\tyler.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\tyler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\zara.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\zara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\animalia\\ziggy.jpg",
+      "PackagePath": "staticwebassets\\images\\animalia\\ziggy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\17ac0a2d-ae64-435c-99d2-d77e08943318.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\17ac0a2d-ae64-435c-99d2-d77e08943318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\artic-fox1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\artic-fox1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\chimpanzee1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\chimpanzee1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\elephant1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\elephant1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\flamingo1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\flamingo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\gibbon1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\gibbon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\giraffe1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\giraffe1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\gorilla1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\gorilla1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\kangaroo1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\kangaroo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\koala1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\koala1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\lion1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\lion1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\meerkat1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\meerkat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\monkey1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\monkey1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\penguin1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\penguin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\polar-bear1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\polar-bear1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\red-panda1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\red-panda1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\sloth1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\sloth1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\tiger1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\tiger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\arraza\\zebra1.jpg",
+      "PackagePath": "staticwebassets\\images\\arraza\\zebra1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\animal.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\animal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\blake-guidry-J6803ULieac-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\blake-guidry-J6803ULieac-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\christian-englmeier-U6VPKGL6CXw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\christian-englmeier-U6VPKGL6CXw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\ciervo.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\ciervo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\daiga-ellaby-p-vf1RhLzsc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\daiga-ellaby-p-vf1RhLzsc-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\girlanimal.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\girlanimal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\joshua-forbes-DMBL4Ns-x2M-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\joshua-forbes-DMBL4Ns-x2M-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\panda-rojo.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\panda-rojo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\pupet.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\pupet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\images\\homepage\\staf.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage\\staf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\Animalia.js",
+      "PackagePath": "staticwebassets\\js\\Animalia.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\Arraza.js",
+      "PackagePath": "staticwebassets\\js\\Arraza.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\Langile.js",
+      "PackagePath": "staticwebassets\\js\\Langile.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\web23aormaechea\\source\\repos\\Zoo\\Zoo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\win-x64\\staticwebassets\\msbuild.Zoo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\win-x64\\staticwebassets\\msbuild.build.Zoo.props",
+      "PackagePath": "build\\Zoo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Zoo.props",
+      "PackagePath": "buildMultiTargeting\\Zoo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Zoo.props",
+      "PackagePath": "buildTransitive\\Zoo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

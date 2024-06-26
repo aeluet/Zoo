@@ -1,0 +1,81 @@
+﻿@model AnimaliaVM
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Animalia.ID" hidden />
+    <input asp-for="Animalia.ImageUrl" hidden />
+    <div clasModelOnlys="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> @(Model.Animalia.ID != 0 ? "Aldatu" : "Sortu") Animalia</h2>
+            <hr />
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Animalia.Izena" class="p-0"></label>
+            <input asp-for="Animalia.Izena" class="form-control" />
+            <span asp-validation-for="Animalia.Izena" class="text-danger"></span>
+        </div>
+        @if (Model.Animalia.ID != 0)
+        {
+            <div class="mb-3 row p-1">
+                <label class="p-0">Sarrera data</label>
+                <input type="date" asp-for="Animalia.Sarrera_data" class="form-control" />
+                <span asp-validation-for="Animalia.Sarrera_data" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Jaiotze data</label>
+                <input type="date" asp-for="Animalia.urte_betetzea" class="form-control" />
+                <span asp-validation-for="Animalia.urte_betetzea" class="text-danger"></span>
+            </div>
+        }
+        else
+        {
+            <div class="mb-3 row p-1">
+                <label class="p-0">Sarrera data</label>
+                <input type="date" value="@DateTime.Today.ToString("yyyy-MM-dd")" asp-for="Animalia.Sarrera_data" class="form-control" />
+                <span asp-validation-for="Animalia.Sarrera_data" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Jaiotze data</label>
+                <input type="date" value="@DateTime.Today.ToString("yyyy-MM-dd")" asp-for="Animalia.urte_betetzea" class="form-control" />
+                <span asp-validation-for="Animalia.urte_betetzea" class="text-danger"></span>
+            </div>
+        }
+        
+        <div class="mb-3 row p-1">
+            <label class="p-0">Arraza</label>
+            <select asp-for="Animalia.ID_arraza" asp-items="@Model.ArrazaList" class="form-select">
+                <option disabled selected>--Hautatu Arraza--</option>
+            </select>
+            <span asp-validation-for="Animalia.ID_arraza" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Animalia.ImageUrl" class="p-0"></label>
+            <input type="file" name="file" class="form-control" />
+            <img src="@Model.Animalia.ImageUrl" width="100px" style="border-radius:5px; border:1px solid #bbb9b9" />
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                @if (Model.Animalia.ID != 0)
+                {
+                    <button type="submit" class="btn btn-primary form-control">Aldatu</button>
+                }
+                else
+                {
+                    <button type="submit" class="btn btn-primary form-control">Sortu</button>
+                }   
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Animalia" asp-action="Index" class="btn btn-secondary border form-control">
+                    Bueltatu
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

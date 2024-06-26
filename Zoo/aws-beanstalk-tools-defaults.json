@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-1",
+    "configuration" : "Debug",
+    "framework"     : "net8.0",
+    "self-contained" : false,
+    "application"    : "Bizifauna",
+    "environment"    : "Bizifauna-dev",
+    "app-path"       : "/",
+    "iis-website"    : "Default Web Site",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0a4aa144d74a6417b,sg-0766465add5ae8de7\";\"aws:ec2:vpc,Subnets\"=\"subnet-0a66c668928014eb8\"",
+    "solution-stack"       : "64bit Windows Server 2022 v2.15.2 running IIS 10.0",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "bizifauna",
+    "instance-type"        : "t2.micro",
+    "key-pair"             : "aws-demo",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role"
+}

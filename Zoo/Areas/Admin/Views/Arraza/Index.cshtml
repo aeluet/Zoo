@@ -1,0 +1,37 @@
+﻿@model List<Arraza>
+
+<div class="container>">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Zoo-an ikusi daitezken arrazak
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="arraza" asp-action="Upsert" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> Arraza berria sortu
+            </a>
+        </div>
+
+    </div>
+    <table id="tblData" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Arraza</th>
+                <th>Deskribapena</th>
+                <th>Lekua</th>
+                <th></th>
+            </tr>
+        </thead>
+
+    </table>
+    <div class="row">
+        <div class="col-6 col-md-3">
+            
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/Arraza.js"></script>
+}
